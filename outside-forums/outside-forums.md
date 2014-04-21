@@ -1,5 +1,10 @@
 # Outside Forum Opportunities
 
+<!--
+## Solar Sonoma County
+- march 26th
+- solar thermal and time of use metering
+
 ## The Architect's Contribution to Healthy Communities
 - April 9th 11:30am - 1pm
 - Glazer Center
@@ -8,6 +13,8 @@
 
 ## Sonoma County Water Agency (SCWA) Energy Tour
 - April 10th
+
+-->
 
 ## Bayonne Gasoline Strikes
 - April 15th Noon-1pm
@@ -38,4 +45,5 @@
 
 ## SSU Science Symposium
 - April 30th 4-7 pm student center ballroom
+
 
